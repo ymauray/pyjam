@@ -1,0 +1,6 @@
+.idea/
+pyjam.iml
+PyJam.egg-info/
+pyjam/__pycache__
+*.pyc
+config.ini
